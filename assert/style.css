@@ -1,0 +1,23 @@
+
+
+ .sticky{
+            position:fixed;
+            background-color: rgb(114, 227, 245);
+            top:20px;
+            font-size: large;
+            width: 100%;
+            text-align: right;
+            
+            
+        }
+
+        .h1{
+            text-align: center;
+        }
+
+        .padd{
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+       
