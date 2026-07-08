@@ -24,36 +24,42 @@
                 text-align: center;
                 font-size: 36px;
                 color: azure;
-                margin: 0;
-                padding: 0;
+               
         }
 
 
         .one{
             background-color: aquamarine;
+            font: px;
         }
 
         .two{
             background-color: rgb(18, 186, 46);
+            font-size: 40px;
         }
 
         .three{
             background-color: rgb(26, 39, 224);
+            font-size: 20px;
         }
 
         .four{
-            background-color: brown
+            background-color: brown;
+            font-size: 25px;
+        
         }
        
         .flexiblbox{
             border: 2px solid;
             display:flex;
-            justify-content: flex-start;
-            justify-content: flex-end;
-            justify-content: center;
-            justify-content: space-around;
-            justify-content: space-between;
-            justify-content: space-evenly;
+            height: 200px;
+            align-items: flex-start;
+            align-items: flex-end;
+            align-items: center;
+            
+    
+            align-items: baseline;
+            
         }
 
         
