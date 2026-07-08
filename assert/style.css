@@ -24,6 +24,8 @@
                 text-align: center;
                 font-size: 36px;
                 color: azure;
+                margin: 0;
+                padding: 0;
         }
 
 
@@ -40,10 +42,18 @@
         }
 
         .four{
-            background-color: brown;
+            background-color: brown
         }
        
         .flexiblbox{
             border: 2px solid;
-            display: flex;
+            display:flex;
+            justify-content: flex-start;
+            justify-content: flex-end;
+            justify-content: center;
+            justify-content: space-around;
+            justify-content: space-between;
+            justify-content: space-evenly;
         }
+
+        
