@@ -19,5 +19,30 @@
             padding-top: 20px;
             padding-bottom: 20px;
         }
+        .one, .two , .three , .four{
+                padding: 20px;
+                text-align: center;
+                font-size: 36px;
+                color: azure;
+        }
 
+
+        .one{
+            background-color: aquamarine;
+        }
+
+        .two{
+            background-color: rgb(18, 186, 46);
+        }
+
+        .three{
+            background-color: rgb(26, 39, 224);
+        }
+
+        .four{
+            background-color: brown;
+        }
        
+        .flexiblbox{
+            border: 2px solid;
+        }
